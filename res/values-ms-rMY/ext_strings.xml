@@ -17,5 +17,6 @@
      limitations under the License.
 -->
 <resources>
+  <string name="notif_previous">Sebelumnya</string>
   <string name="notif_next">Selepas</string>
 </resources>

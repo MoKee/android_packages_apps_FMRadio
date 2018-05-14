@@ -19,5 +19,5 @@
 <resources>
   <string name="notif_previous">Önceki</string>
   <string name="notif_stop">Durdur</string>
-  <string name="notif_next">İleri</string>
+  <string name="notif_next">Sonraki</string>
 </resources>

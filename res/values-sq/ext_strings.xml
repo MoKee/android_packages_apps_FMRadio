@@ -18,4 +18,5 @@
 -->
 <resources>
     <string name="notif_stop">Ndalo</string>
+    <string name="notif_next">Vazhdo</string>
 </resources>

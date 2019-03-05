@@ -17,6 +17,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="notif_previous">&quot;પાછળ&quot;</string>
-    <string name="notif_next">&quot;આગામી&quot;</string>
+    <string name="notif_previous">"પાછળ"</string>
+    <string name="notif_next">"આગામી"</string>
 </resources>

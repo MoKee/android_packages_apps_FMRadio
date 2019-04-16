@@ -17,6 +17,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="notif_previous">"পূৰ্বৱৰ্তী"</string>
-    <string name="notif_next">"পৰৱৰ্তী"</string>
+    <string name="notif_previous">পূৰ্বৱৰ্তী</string>
+    <string name="notif_next">পৰৱৰ্তী</string>
 </resources>

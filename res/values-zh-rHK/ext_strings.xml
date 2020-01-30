@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="notif_stop">Ndalo</string>
-    <string name="notif_next">Vazhdo</string>
+    <string name="notif_previous">上一首</string>
+    <string name="notif_stop">停止</string>
+    <string name="notif_next">下一步</string>
 </resources>

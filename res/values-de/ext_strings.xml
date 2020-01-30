@@ -17,6 +17,6 @@
 -->
 <resources>
     <string name="notif_previous">Zurück</string>
-    <string name="notif_stop">Stopp</string>
+    <string name="notif_stop">Stoppen</string>
     <string name="notif_next">Weiter</string>
 </resources>

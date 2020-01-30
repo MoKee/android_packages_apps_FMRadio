@@ -18,5 +18,5 @@
 <resources>
     <string name="notif_previous">Precedente</string>
     <string name="notif_stop">Ferma</string>
-    <string name="notif_next">Sucessivo</string>
+    <string name="notif_next">Avanti</string>
 </resources>

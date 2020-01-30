@@ -18,5 +18,5 @@
 <resources>
     <string name="notif_previous">Predchádzajúce</string>
     <string name="notif_stop">Zastaviť</string>
-    <string name="notif_next">Nasledujúce</string>
+    <string name="notif_next">Ďalší</string>
 </resources>

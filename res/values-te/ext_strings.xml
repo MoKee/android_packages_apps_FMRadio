@@ -16,6 +16,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="notif_stop">Ndalo</string>
-    <string name="notif_next">Vazhdo</string>
+    <string name="notif_previous">"మునుపటి"</string>
+    <string name="notif_next">"తదుపరి"</string>
 </resources>

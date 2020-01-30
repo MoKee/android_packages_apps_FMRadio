@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="notif_stop">Ndalo</string>
-    <string name="notif_next">Vazhdo</string>
+    <string name="notif_previous">Forrige</string>
+    <string name="notif_stop">Stopp</string>
+    <string name="notif_next">Neste</string>
 </resources>

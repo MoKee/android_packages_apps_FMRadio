@@ -16,6 +16,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="notif_previous">"മുമ്പത്തെ"</string>
-    <string name="notif_next">"അടുത്തത്"</string>
+    <string name="notif_previous">മുമ്പത്തെ</string>
+    <string name="notif_next">അടുത്തത്</string>
 </resources>

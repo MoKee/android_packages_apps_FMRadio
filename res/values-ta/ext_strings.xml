@@ -16,5 +16,6 @@
 -->
 <resources>
     <string name="notif_previous">முந்தைய</string>
+    <string name="notif_stop">நிறுத்து</string>
     <string name="notif_next">அடுத்து</string>
 </resources>

@@ -16,6 +16,6 @@
 -->
 <resources>
     <string name="notif_previous">Anterior</string>
-    <string name="notif_stop">Oprește</string>
-    <string name="notif_next">Înainte</string>
+    <string name="notif_stop">Stop</string>
+    <string name="notif_next">Următoarea</string>
 </resources>

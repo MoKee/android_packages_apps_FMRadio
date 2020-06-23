@@ -16,6 +16,6 @@
 -->
 <resources>
     <string name="notif_previous">Sebelumnya</string>
-    <string name="notif_stop">Hentikan</string>
+    <string name="notif_stop">Berhenti</string>
     <string name="notif_next">Berikutnya</string>
 </resources>

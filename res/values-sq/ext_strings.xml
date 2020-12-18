@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+    <string name="notif_previous">E mëparshmja</string>
     <string name="notif_stop">Ndalo</string>
     <string name="notif_next">Vazhdo</string>
 </resources>

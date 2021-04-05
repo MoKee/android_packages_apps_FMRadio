@@ -16,4 +16,6 @@
 -->
 <resources>
     <string name="notif_previous">Air ais</string>
+    <string name="notif_stop">Cuir stad air</string>
+    <string name="notif_next">Air adhart</string>
 </resources>
